@@ -1,2 +1,2 @@
 # Kickstarter-Analysis
-##Kickstarting with Excel
+# Kickstarting with Excel
