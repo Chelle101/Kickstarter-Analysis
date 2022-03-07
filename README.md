@@ -12,22 +12,22 @@ Given the data above,campagins were more successful towards the month of May(pea
 ![Outcomes_vs_Goals_2](https://user-images.githubusercontent.com/99842026/156948802-f10d1e31-9395-4372-87b9-fe57734278db.png)
 This above graph emphasize on the plays subcategory wthin the theater category. Total number of campagins were counted with SUM function, pre-sorted based on specified parameters of campagins on their outcomes and goals.There were virtually no canceled plays,As goals increased from less 1000 to 34999 the possibility of of successful campagins decreased.The greatest success rates is displayed at goals less than 1000 and the lowest success rates can be seen for goals of 45,000-49999.
 ### How Goals was grouped
-*Less than 1000
-*1000 to 4999
-*5000 to 9999
-*10000 to 14999
-*15000 to 19999
-*20000 to 24999
-*30000 to 34999
-*35000 to 39999
-*40000 to 44999
-*45000 to 49999
-*Greater than 50000
+- Less than 1000
+- 1000 to 4999
+- 5000 to 9999
+- 10000 to 14999
+- 15000 to 19999
+- 20000 to 24999
+- 30000 to 34999
+- 35000 to 39999
+- 40000 to 44999
+- 45000 to 49999
+- Greater than 50000
 ### Challenges and difficulties Encountered
 One Challenge I encountered was changing the launch date to months on the pivot table. My version of excel automatically included other subcategories (Quarter, Year)
 # Results
 ## What are two conclusions you can draw about the Outcomes based on Launch Date?
--The best time to launch a theatrical campagin would be the begininng of the year with highest chances of success in the month of May
+- The best time to launch a theatrical campagin would be the begininng of the year with highest chances of success in the month of May
 - To minimize chance of failed campagins avoid running campagin at the end of year .
 # What can you conclude about the Outcomes based on Goals?
 It can be conclude that as the fund raising goals increase so will the probality of failed campagins. Cilent should avoid having a high campagin goals ($25,000 or more) as the probability of failed campagins outway the successful campagins. To have greater chance of successful campagins the goal limit should be less than 1000.
